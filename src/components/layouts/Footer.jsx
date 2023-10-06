@@ -8,7 +8,7 @@ const Footer = () => {
           Built with ❤ by <span className="font-semibold">Shidqi</span>. The
           source code is available on{" "}
           <a
-            href="https://github.com/shidqi29/news-app"
+            href="https://github.com/shidqi29/dicoding-notes-app"
             target="_blank"
             className="underline"
             rel="noreferrer"
